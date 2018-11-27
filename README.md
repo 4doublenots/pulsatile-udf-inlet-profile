@@ -9,7 +9,7 @@ Number of Cycles to Display<br><br>
     
 <b>Output:</b><br>
 Code in C to be interpreted by ANSYS FLUENT/CFX for definition of the x-velocity at the vessel inlet<br>
-Figure displaying the case-specific mathematic function with linear velocity (m/s) versus time (s) over the desired number of cycles<br><br>
+Figure displaying the case-specific function with linear velocity (m/s) versus time (s) over the desired number of cycles<br><br>
 
 Based on the mathematical models of Stevens et al. (2002) presented here:<br>
 https://pdfs.semanticscholar.org/ffa9/7e13dfe447e08db1700b603dbcaa744ed8a5.pdf
